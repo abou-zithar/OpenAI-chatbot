@@ -17,7 +17,7 @@ You can install these libraries using the following command:
 
 1. Clone this repository:
 
-git clone https://github.com/YourUsername/YourRepository.git
+git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/abou-zithar/OpenAI-chatbot.git)
 
 2. Navigate to the repository:
   
